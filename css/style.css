@@ -153,6 +153,17 @@ html body {
 	padding-left: 12px;
 }
 
+/* Portfolio */
+
+#portfolio {
+	padding: 75px 100px;
+	margin: 0 auto;
+}
+
+#portfolio h1 {
+	margin-top: 0px;
+}
+
 /* ///// SECTION BACKGROUNDS ///// */
 
 .background-white {
