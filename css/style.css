@@ -153,15 +153,19 @@ html body {
 	padding-left: 12px;
 }
 
-/* Portfolio */
+/* PROJECTS */
 
-#portfolio {
+#projects {
 	padding: 75px 100px;
 	margin: 0 auto;
 }
 
-#portfolio h1 {
+#projects h1 {
 	margin-top: 0px;
+}
+
+img.project-img {
+	max-width: 300px;
 }
 
 /* ///// SECTION BACKGROUNDS ///// */
